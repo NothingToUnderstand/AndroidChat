@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e84d7a-2920-4ee6-9075-fee6fe9290ea" name="Changes" comment="" />
+    <list default="true" id="52e84d7a-2920-4ee6-9075-fee6fe9290ea" name="Changes" comment="android chat app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662127291208</updated>
     </task>
+    <task id="LOCAL-00001" summary="android chat app">
+      <created>1662204530435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662204530435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,5 +151,7 @@
     <ignored-roots>
       <path value="https:/github.com/NothingToUnderstand/AndroidChat.git" />
     </ignored-roots>
+    <MESSAGE value="android chat app" />
+    <option name="LAST_COMMIT_MESSAGE" value="android chat app" />
   </component>
 </project>
